@@ -5,7 +5,7 @@
 ## Synopsis
 
 Traditionally, hangul is devided into six types according to combination method. The example is below. We got one step further. We added one more feature to this. We see two-charactered last consonant and one-charactered last consonant differently. So we divide hangul into **nine types** and new types are **'FC/W/DLC'**, **'FC/HV/DLC'** and **'FC/HV/W/DLC'** when DLC is double Last Consonant.
-
+![6 types of combination](./picture/screenshot.png) 
 
 ## Code Explanation
 
